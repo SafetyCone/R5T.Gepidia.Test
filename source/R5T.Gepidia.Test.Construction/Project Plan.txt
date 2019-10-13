@@ -1,0 +1,4 @@
+R5T.Gepidia.Test.Construction - A construction console-app for the library R5T.Gepidia.Test.
+
+Goals
+
